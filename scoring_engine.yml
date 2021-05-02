@@ -1,4 +1,7 @@
 ---
+# Author: Karthik Iyer, kni6228@rit.edu
+# A simple Ansible playbook to simplify the process of setting up scoring engine
+
 - name: Docker Setup
   hosts: all
   become: yes
